@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  width: 200px;
+padding-left: 300px;
+ 
 }
 
 .App-logo {
@@ -41,3 +44,6 @@
   color: red;
 }
 
+p {
+  color: red;
+}
